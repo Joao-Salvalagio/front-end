@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+h2{
+    color: purple;
+    background-color: white;
+}
+h1{
+    color: coral;
+    background-color: white;
+    text-decoration-line: overline;
+    text-decoration-line: underline;
+    text-align: center;
+}
+p{
+    color: darkgreen;
+    background-color: white;
+    text-decoration: line-through;
+    font-size: 20px;
+}
