@@ -11,10 +11,10 @@ h1{
     text-decoration-line: overline;
     text-decoration-line: underline;
     text-align: center;
+    text-decoration: line-through;
 }
 p{
     color: darkgreen;
     background-color: white;
-    text-decoration: line-through;
     font-size: 20px;
 }
