@@ -33,3 +33,17 @@ body{
     list-style: none;
     padding: 0px;
 }
+.navbar button{
+    color: rgba(128, 128, 128, 0.312);
+    border-color: red;
+    text-emphasis-color: red;
+    background-color: white;
+}
+.navbar input{
+    color: red;
+    border-color: red;
+}
+.navbar form{
+    color: red;
+    border-color: red;
+}
