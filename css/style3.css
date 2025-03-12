@@ -1,11 +1,12 @@
 .tabela{
-    border-collapse: collapse;
+    /*border-collapse: collapse;*/
     width: 100%;
 }
 th, td{
     border: 1px solid #000;
     text-align: center;
     padding: 10px;
+    border-radius: 5px;
 }
 th{
     background-color: black;
@@ -13,4 +14,10 @@ th{
 }
 .topo{
     text-align: center;
+    background-color: black;
+    color: white;
+    padding: 0.5px;
+}
+tr:hover{
+    background-color: rgba(45, 45, 45, 0.351);
 }
